@@ -32,7 +32,7 @@ public class CardTrick {
            //Then report the result here
            Scanner input= new Scanner(System.in);
            int luck=input.nextInt();
-           System.out.println("luck card is "+luck);
+           System.out.println("luck card is lucky for me "+luck);
     }
     
 }
